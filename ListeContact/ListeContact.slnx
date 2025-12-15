@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Hotel/Hotel.csproj" Id="5bec9d81-04b2-4d88-9c67-93e35e2580e4" />
+  <Project Path="ListeContact.csproj" />
+</Solution>

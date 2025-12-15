@@ -1,0 +1,14 @@
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\bin\Debug\net10.0\exo1.exe
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\bin\Debug\net10.0\exo1.deps.json
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\bin\Debug\net10.0\exo1.runtimeconfig.json
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\bin\Debug\net10.0\exo1.dll
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\bin\Debug\net10.0\exo1.pdb
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\exo1.AssemblyInfoInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\exo1.AssemblyInfo.cs
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\exo1.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\exo1.dll
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\refint\exo1.dll
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\exo1.pdb
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\exo1.genruntimeconfig.cache
+C:\Users\Rayan\Documents\WorkSpace\dotnet\exo1\obj\Debug\net10.0\ref\exo1.dll

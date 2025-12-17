@@ -3,24 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Migrations\\20251217103034_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductService\\Migrations\\20251217103034_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\productservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Migrations\\20251217102535_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserService\\Migrations\\20251217102535_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\service\\productiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\service\\productiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\dto\\productdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\dto\\productdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\dto\\productdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\dto\\productdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Migrations\\20251217092930_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserService\\Migrations\\20251217092930_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\service\\useriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\service\\useriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\productservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,8 +107,12 @@
       "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\service\\useriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\service\\useriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\userservice\\migrations\\20251217092930_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\migrations\\20251217092930_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,63 +122,231 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251217103034_product.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Migrations\\20251217103034_product.cs",
+              "RelativeDocumentMoniker": "ProductService\\Migrations\\20251217103034_product.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Migrations\\20251217103034_product.cs",
+              "RelativeToolTip": "ProductService\\Migrations\\20251217103034_product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:30:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "ProductService\\ProductService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T10:29:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Controller\\ProductController.cs",
+              "RelativeToolTip": "ProductService\\Controller\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:21:15.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductiService.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Service\\ProductiService.cs",
+              "RelativeDocumentMoniker": "ProductService\\Service\\ProductiService.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Service\\ProductiService.cs",
+              "RelativeToolTip": "ProductService\\Service\\ProductiService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:15:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "ProductService\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Service\\IService.cs",
+              "RelativeToolTip": "ProductService\\Service\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:14:53.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductService\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ProductService\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:11:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProductService\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Repository\\IRepository.cs",
+              "RelativeToolTip": "ProductService\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:10:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:09:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Controller\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controller\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Controller\\UsersController.cs",
+              "RelativeToolTip": "UserService\\Controller\\UsersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:42:55.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251217102535_product.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Migrations\\20251217102535_product.cs",
+              "RelativeDocumentMoniker": "UserService\\Migrations\\20251217102535_product.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Migrations\\20251217102535_product.cs",
+              "RelativeToolTip": "UserService\\Migrations\\20251217102535_product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:25:35.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDtoReceive.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\DTO\\ProductDtoReceive.cs",
+              "RelativeDocumentMoniker": "ProductService\\DTO\\ProductDtoReceive.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\DTO\\ProductDtoReceive.cs",
+              "RelativeToolTip": "ProductService\\DTO\\ProductDtoReceive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:08:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:03:35.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Program.cs",
               "RelativeDocumentMoniker": "UserService\\Program.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Program.cs",
               "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T09:20:42.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Service\\IService.cs",
-              "RelativeDocumentMoniker": "UserService\\Service\\IService.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Service\\IService.cs",
-              "RelativeToolTip": "UserService\\Service\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ProductDtoSend.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\DTO\\ProductDtoSend.cs",
+              "RelativeDocumentMoniker": "ProductService\\DTO\\ProductDtoSend.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\DTO\\ProductDtoSend.cs",
+              "RelativeToolTip": "ProductService\\DTO\\ProductDtoSend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T09:04:00.372Z",
+              "WhenOpened": "2025-12-17T10:09:04.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Models\\Product.cs",
+              "RelativeToolTip": "ProductService\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T08:59:30.684Z",
+              "WhenOpened": "2025-12-17T10:05:20.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\Repository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\IRepository.cs",
-              "RelativeToolTip": "UserService\\Repository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T08:58:48.02Z",
+              "DocumentIndex": 16,
+              "Title": "ProductService",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "ProductService\\ProductService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T10:04:24.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\appsettings.Development.json",
+              "RelativeToolTip": "ProductService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T10:03:39.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "UserDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\DTO\\UserDtoSend.cs",
               "RelativeDocumentMoniker": "UserService\\DTO\\UserDtoSend.cs",
@@ -131,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "UserDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\DTO\\UserDtoReceive.cs",
               "RelativeDocumentMoniker": "UserService\\DTO\\UserDtoReceive.cs",
@@ -144,20 +372,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Properties\\launchSettings.json",
               "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-17T08:54:51.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:40:31.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\IRepository.cs",
+              "RelativeToolTip": "UserService\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:58:48.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "UserService\\Data\\AppDbContext.cs",
@@ -170,33 +424,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Models\\User.cs",
-              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Models\\User.cs",
-              "RelativeToolTip": "UserService\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T08:40:31.495Z",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\appsettings.Development.json",
+              "RelativeToolTip": "UserService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T08:50:03.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Controller\\UsersController.cs",
-              "RelativeDocumentMoniker": "UserService\\Controller\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Controller\\UsersController.cs",
-              "RelativeToolTip": "UserService\\Controller\\UsersController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "UserService\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T08:42:55.836Z",
+              "WhenOpened": "2025-12-17T08:59:30.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "UserService\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Service\\IService.cs",
+              "RelativeToolTip": "UserService\\Service\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:04:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "UseriService.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Service\\UseriService.cs",
               "RelativeDocumentMoniker": "UserService\\Service\\UseriService.cs",
@@ -209,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 27,
               "Title": "20251217092930_user.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Migrations\\20251217092930_user.cs",
               "RelativeDocumentMoniker": "UserService\\Migrations\\20251217092930_user.cs",
@@ -218,19 +485,6 @@
               "ViewState": "AgIAAAwAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T09:29:30.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "UserService\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\appsettings.Development.json",
-              "RelativeToolTip": "UserService\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T08:50:03.291Z",
               "EditorCaption": ""
             }
           ]

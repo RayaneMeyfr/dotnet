@@ -1,0 +1,6 @@
+@Commande_HostAddress = http://localhost:5083
+
+GET {{Commande_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

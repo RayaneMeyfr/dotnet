@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Restaurant")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Commande")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a0fa35995fd5ba7b3522f650931bfcc21cf576b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Restaurant")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Restaurant")]
+[assembly: System.Reflection.AssemblyProductAttribute("Commande")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Commande")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

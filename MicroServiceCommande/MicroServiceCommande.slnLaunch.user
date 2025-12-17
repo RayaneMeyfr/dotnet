@@ -16,6 +16,11 @@
         "Path": "UserService\\UserService.csproj",
         "Action": "Start",
         "DebugTarget": "http"
+      },
+      {
+        "Path": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
       }
     ]
   }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\orderdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\orderdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{6BB5A0E4-A3ED-EBD8-B86F-21996AABC09A}|ProductService\\ProductService.csproj|solutionrelative:productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "RestClient.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\OrderService\\Rest\\RestClient.cs",
               "RelativeDocumentMoniker": "OrderService\\Rest\\RestClient.cs",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "OrderService\\Rest\\RestClient.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:11:08.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T15:11:08.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\OrderService\\Program.cs",
               "RelativeDocumentMoniker": "OrderService\\Program.cs",
@@ -95,12 +94,11 @@
               "RelativeToolTip": "OrderService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:11:03.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T15:11:03.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\UserDtoSend.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\UserDtoSend.cs",
@@ -108,12 +106,11 @@
               "RelativeToolTip": "ApiGateway\\DTO\\UserDtoSend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:31:58.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:31:58.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\UserDtoReceive.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\UserDtoReceive.cs",
@@ -121,12 +118,11 @@
               "RelativeToolTip": "ApiGateway\\DTO\\UserDtoReceive.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:31:54.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:31:54.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\ProductDtoSend.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\ProductDtoSend.cs",
@@ -134,12 +130,11 @@
               "RelativeToolTip": "ApiGateway\\DTO\\ProductDtoSend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:31:49.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:31:49.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\ProductDtoReceive.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\ProductDtoReceive.cs",
@@ -147,12 +142,11 @@
               "RelativeToolTip": "ApiGateway\\DTO\\ProductDtoReceive.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:31:46.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:31:46.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrderDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\OrderDtoSend.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\OrderDtoSend.cs",
@@ -160,12 +154,11 @@
               "RelativeToolTip": "ApiGateway\\DTO\\OrderDtoSend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:31:39.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:31:39.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\OrderDtoReceive.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\OrderDtoReceive.cs",
@@ -178,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RestClient.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\Rest\\RestClient.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Rest\\RestClient.cs",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "ApiGateway\\Rest\\RestClient.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:25:49.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:25:49.613Z"
             },
             {
               "$type": "Document",
@@ -199,12 +191,11 @@
               "RelativeToolTip": "ApiGateway\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:10:54.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:10:54.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\UserService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
@@ -212,12 +203,11 @@
               "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T14:10:30.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:10:30.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ProductService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProductService\\Properties\\launchSettings.json",
@@ -225,12 +215,11 @@
               "RelativeToolTip": "ProductService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T14:10:09.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:10:09.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\OrderService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
@@ -238,25 +227,24 @@
               "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T14:09:47.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:09:47.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\Program.cs",
               "RelativeToolTip": "ApiGateway\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:05:58.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GatewayController.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\Controllers\\GatewayController.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Controllers\\GatewayController.cs",
@@ -264,8 +252,7 @@
               "RelativeToolTip": "ApiGateway\\Controllers\\GatewayController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAkwFMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:05:11.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T14:05:11.536Z"
             }
           ]
         }

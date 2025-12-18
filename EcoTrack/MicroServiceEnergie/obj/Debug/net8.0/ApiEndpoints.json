@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "MicroServiceEnergie.Api.Cotroller.EnergieController",
+    "Method": "GetAll",
+    "RelativePath": "api/Energie",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MicroServiceEnergie.Application.Dto.EnergieDtoSend, MicroServiceEnergie, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceEnergie.Api.Cotroller.EnergieController",
+    "Method": "Create",
+    "RelativePath": "api/Energie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "energie",
+        "Type": "MicroServiceEnergie.Application.Dto.EnergieDtoReceive",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceEnergie.Application.Dto.EnergieDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceEnergie.Api.Cotroller.EnergieController",
+    "Method": "GetById",
+    "RelativePath": "api/Energie/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceEnergie.Application.Dto.EnergieDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

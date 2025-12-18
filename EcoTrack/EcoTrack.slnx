@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="MicroServiceAgregation/MicroServiceAgregation.csproj" />
+  <Project Path="Dashboard/Dashboard.csproj" Id="16772bbb-d948-4c03-bfff-7ca82d740d75" />
+  <Project Path="MicroServiceDechets/MicroServiceDechets.csproj" Id="ca858dd9-a0b7-442b-9e5b-fd33d47fffaf" />
   <Project Path="MicroServiceEnergie/MicroServiceEnergie.csproj" />
   <Project Path="MicroServiceTransport/MicroServiceTransport.csproj" />
 </Solution>

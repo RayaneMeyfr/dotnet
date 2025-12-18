@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\userdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\userdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\userdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\userdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\productdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\productdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\productdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\productdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\orderdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\orderdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\orderdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\orderdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\orderdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\orderdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\productdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\productdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\productdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\productdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\userdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\userdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\dto\\userdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dto\\userdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34BF9764-D80C-4134-ADAB-E94C22EBFEAA}|ApiGateway\\ApiGateway.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\microservicecommande\\apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -100,78 +100,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UserDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\UserDtoSend.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\UserDtoSend.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\UserDtoSend.cs",
               "RelativeToolTip": "ApiGateway\\DTO\\UserDtoSend.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:31:58.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\UserDtoReceive.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\UserDtoReceive.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\UserDtoReceive.cs",
               "RelativeToolTip": "ApiGateway\\DTO\\UserDtoReceive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:31:54.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\ProductDtoSend.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\ProductDtoSend.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\ProductDtoSend.cs",
               "RelativeToolTip": "ApiGateway\\DTO\\ProductDtoSend.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:31:49.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\ProductDtoReceive.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\ProductDtoReceive.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\ProductDtoReceive.cs",
               "RelativeToolTip": "ApiGateway\\DTO\\ProductDtoReceive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:31:46.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "OrderDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\OrderDtoSend.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\OrderDtoSend.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\OrderDtoSend.cs",
               "RelativeToolTip": "ApiGateway\\DTO\\OrderDtoSend.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:31:39.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "OrderDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\OrderDtoReceive.cs",
               "RelativeDocumentMoniker": "ApiGateway\\DTO\\OrderDtoReceive.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\MicroServiceCommande\\ApiGateway\\DTO\\OrderDtoReceive.cs",
               "RelativeToolTip": "ApiGateway\\DTO\\OrderDtoReceive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T14:31:18.776Z",
               "EditorCaption": ""

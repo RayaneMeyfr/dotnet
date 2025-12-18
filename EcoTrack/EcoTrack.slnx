@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MicroServiceAgregation/MicroServiceAgregation.csproj" />
+  <Project Path="MicroServiceEnergie/MicroServiceEnergie.csproj" />
+  <Project Path="MicroServiceTransport/MicroServiceTransport.csproj" />
+</Solution>

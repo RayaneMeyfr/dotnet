@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "MicroServiceDechets.Api.Controller.DechetController",
+    "Method": "GetAll",
+    "RelativePath": "api/Dechet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MicroServiceDechets.Application.Dto.DechetDtoSend, MicroServiceDechets, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceDechets.Api.Controller.DechetController",
+    "Method": "Create",
+    "RelativePath": "api/Dechet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dechet",
+        "Type": "MicroServiceDechets.Application.Dto.DechetDtoReceive",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceDechets.Application.Dto.DechetDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceDechets.Api.Controller.DechetController",
+    "Method": "GetById",
+    "RelativePath": "api/Dechet/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceDechets.Application.Dto.DechetDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

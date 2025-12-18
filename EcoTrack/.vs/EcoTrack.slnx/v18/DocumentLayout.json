@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\domain\\entity\\enum\\typedechet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\domain\\entity\\enum\\typedechet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\application\\service\\dechetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\application\\service\\dechetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\application\\service\\energieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\application\\service\\energieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,60 @@
       "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\application\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\application\\dto\\energiedtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\application\\dto\\energiedtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\infrastructure\\persistence\\dechetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\infrastructure\\persistence\\dechetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\application\\dto\\energiedtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\application\\dto\\energiedtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\application\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\application\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\domain\\entity\\enum\\sourceenergie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\domain\\entity\\enum\\sourceenergie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\api\\controller\\dechetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\api\\controller\\dechetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Migrations\\20251218150633_dechet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroServiceDechets\\Migrations\\20251218150633_dechet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\domain\\entity\\dechet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\domain\\entity\\dechet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\api\\controller\\energiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\api\\controller\\energiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\application\\dto\\dechetdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\application\\dto\\dechetdtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\application\\dto\\dechetdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\application\\dto\\dechetdtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\infrastructure\\persistence\\energierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\infrastructure\\persistence\\energierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\domain\\ports\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\domain\\ports\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\domain\\ports\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +83,28 @@
       "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\domain\\entity\\energie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\infrastructure\\persistence\\energierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\infrastructure\\persistence\\energierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microservicedechets\\microservicedechets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA858DD9-A0B7-442B-9E5B-FD33D47FFFAF}|MicroServiceDechets\\MicroServiceDechets.csproj|solutionrelative:microservicedechets\\microservicedechets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\domain\\entity\\enum\\sourceenergie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\domain\\entity\\enum\\sourceenergie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Migrations\\20251218134250_energie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroServiceEnergie\\Migrations\\20251218134250_energie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\migrations\\20251218134250_energie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\migrations\\20251218134250_energie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\api\\controller\\energiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\api\\controller\\energiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\application\\dto\\energiedtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\application\\dto\\energiedtoreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|c:\\users\\rayan\\documents\\workspace\\dotnet\\ecotrack\\microserviceenergie\\application\\dto\\energiedtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE6B69-0729-4D7D-FFB9-733A355B2F61}|MicroServiceEnergie\\MicroServiceEnergie.csproj|solutionrelative:microserviceenergie\\application\\dto\\energiedtosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,63 +114,249 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251218150633_dechet.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Migrations\\20251218150633_dechet.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Migrations\\20251218150633_dechet.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Migrations\\20251218150633_dechet.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Migrations\\20251218150633_dechet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:06:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Program.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Program.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:02:47.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DechetController.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Api\\Controller\\DechetController.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Api\\Controller\\DechetController.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Api\\Controller\\DechetController.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Api\\Controller\\DechetController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:00:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DechetService.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Service\\DechetService.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Application\\Service\\DechetService.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Service\\DechetService.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Application\\Service\\DechetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:32:17.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Application\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Service\\IService.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Application\\Service\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:31:25.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DechetDtoSend.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Dto\\DechetDtoSend.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Application\\Dto\\DechetDtoSend.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Dto\\DechetDtoSend.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Application\\Dto\\DechetDtoSend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:29:43.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DechetDtoReceive.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Dto\\DechetDtoReceive.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Application\\Dto\\DechetDtoReceive.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Application\\Dto\\DechetDtoReceive.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Application\\Dto\\DechetDtoReceive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:29:12.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DechetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Infrastructure\\Persistence\\DechetRepository.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Infrastructure\\Persistence\\DechetRepository.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Infrastructure\\Persistence\\DechetRepository.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Infrastructure\\Persistence\\DechetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:23:04.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Domain\\Ports\\IRepository.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Domain\\Ports\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Domain\\Ports\\IRepository.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Domain\\Ports\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:21:33.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeDechet.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Domain\\Entity\\Enum\\TypeDechet.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Domain\\Entity\\Enum\\TypeDechet.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Domain\\Entity\\Enum\\TypeDechet.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Domain\\Entity\\Enum\\TypeDechet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:18:36.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dechet.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Domain\\Entity\\Dechet.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Domain\\Entity\\Dechet.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Domain\\Entity\\Dechet.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Domain\\Entity\\Dechet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:17:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\appsettings.Development.json",
+              "RelativeToolTip": "MicroServiceDechets\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T14:15:31.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MicroServiceDechets\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:14:50.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MicroServiceDechets",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\MicroServiceDechets.csproj",
+              "RelativeDocumentMoniker": "MicroServiceDechets\\MicroServiceDechets.csproj",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceDechets\\MicroServiceDechets.csproj",
+              "RelativeToolTip": "MicroServiceDechets\\MicroServiceDechets.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-18T14:13:38.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Application\\Service\\IService.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Application\\Service\\IService.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Application\\Service\\IService.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Application\\Service\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:55:54.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Domain\\Ports\\IRepository.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Domain\\Ports\\IRepository.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Domain\\Ports\\IRepository.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Domain\\Ports\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:55:47.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Infrastructure\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:55:45.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "EnergieRepository.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Infrastructure\\Persistence\\EnergieRepository.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Infrastructure\\Persistence\\EnergieRepository.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Infrastructure\\Persistence\\EnergieRepository.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Infrastructure\\Persistence\\EnergieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:55:43.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "SourceEnergie.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Domain\\Entity\\Enum\\SourceEnergie.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Domain\\Entity\\Enum\\SourceEnergie.cs",
@@ -122,12 +364,11 @@
               "RelativeToolTip": "MicroServiceEnergie\\Domain\\Entity\\Enum\\SourceEnergie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:47:26.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:47:26.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "20251218134250_energie.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Migrations\\20251218134250_energie.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Migrations\\20251218134250_energie.cs",
@@ -135,18 +376,17 @@
               "RelativeToolTip": "MicroServiceEnergie\\Migrations\\20251218134250_energie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:42:50.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:42:50.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Program.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Program.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Program.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:41:19.009Z",
               "EditorCaption": ""
@@ -159,27 +399,27 @@
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Api\\Controller\\EnergieController.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Api\\Controller\\EnergieController.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Api\\Controller\\EnergieController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:38:03.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EnergieService.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Application\\Service\\EnergieService.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Application\\Service\\EnergieService.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Application\\Service\\EnergieService.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Application\\Service\\EnergieService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwv0EAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:27:45.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 24,
               "Title": "EnergieDtoReceive.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Application\\Dto\\EnergieDtoReceive.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Application\\Dto\\EnergieDtoReceive.cs",
@@ -187,12 +427,11 @@
               "RelativeToolTip": "MicroServiceEnergie\\Application\\Dto\\EnergieDtoReceive.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:27:23.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:27:23.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
               "Title": "EnergieDtoSend.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Application\\Dto\\EnergieDtoSend.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Application\\Dto\\EnergieDtoSend.cs",
@@ -200,21 +439,24 @@
               "RelativeToolTip": "MicroServiceEnergie\\Application\\Dto\\EnergieDtoSend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:27:17.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:27:17.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Energie.cs",
               "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Domain\\Entity\\Energie.cs",
               "RelativeDocumentMoniker": "MicroServiceEnergie\\Domain\\Entity\\Energie.cs",
               "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\dotnet\\EcoTrack\\MicroServiceEnergie\\Domain\\Entity\\Energie.cs",
               "RelativeToolTip": "MicroServiceEnergie\\Domain\\Entity\\Energie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T12:53:59.675Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroServiceDechets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2112ade53c4360e92e1bd5e77b82e127415b4346")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74443dfc3c44109d8155e361311a7ee674f1fb78")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroServiceDechets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroServiceDechets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

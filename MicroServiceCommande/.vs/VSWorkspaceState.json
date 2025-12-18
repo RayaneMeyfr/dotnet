@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UserService",
+    "\\UserService\\Controller",
+    "\\UserService\\DTO",
+    "\\UserService\\Repository"
   ],
-  "SelectedNode": "\\MicroServiceCommande.slnx",
+  "SelectedNode": "\\UserService\\Controller\\UsersController.cs",
   "PreviewInSolutionExplorer": false
 }

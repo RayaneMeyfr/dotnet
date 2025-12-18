@@ -1,0 +1,190 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "MicroServiceDechets",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Dechet": {
+      "get": {
+        "tags": [
+          "Dechet"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/DechetDtoSend"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/DechetDtoSend"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/DechetDtoSend"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Dechet"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DechetDtoReceive"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DechetDtoReceive"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DechetDtoReceive"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/DechetDtoSend"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DechetDtoSend"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DechetDtoSend"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Dechet/{id}": {
+      "get": {
+        "tags": [
+          "Dechet"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/DechetDtoSend"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DechetDtoSend"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DechetDtoSend"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DechetDtoReceive": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "$ref": "#/components/schemas/TypeDechet"
+          },
+          "quantiteKg": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tauxRecyclageKg": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      },
+      "DechetDtoSend": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantiteKg": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tauxRecyclageKg": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TypeDechet": {
+        "enum": [
+          0,
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Dechet"
+    }
+  ]
+}

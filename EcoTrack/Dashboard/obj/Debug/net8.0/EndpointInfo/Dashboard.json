@@ -1,0 +1,65 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Dashboard",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Dashboard": {
+      "get": {
+        "tags": [
+          "Dashboard"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/DashboardDtoReceive"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DashboardDtoReceive"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DashboardDtoReceive"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DashboardDtoReceive": {
+        "type": "object",
+        "properties": {
+          "consommationEnergetiqueTotale": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "quantiteDechetsTotale": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "emissionsCO2Globales": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Dashboard"
+    }
+  ]
+}

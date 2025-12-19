@@ -11,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 builder.Services.AddScoped<IRepository<Transport>, TransportRepository>();
-builder.Services.AddScoped<IService<TransportDtoReceive, TransportDtoSend>, TransportService>();
+builder.Services.AddScoped<IService<TransportDtoReceive, TransportDtoSend, TransportDtoSendEmission>, TransportService>();
 
 string connectionString = builder.Configuration.GetConnectionString("default");
 builder.Services.AddDbContext<AppDbContext>(options =>

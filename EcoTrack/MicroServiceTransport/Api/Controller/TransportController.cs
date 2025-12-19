@@ -9,9 +9,9 @@ namespace MicroServiceTransport.Api.Controller
     [ApiController]
     public class TransportController : ControllerBase
     {
-        private readonly IService<TransportDtoReceive, TransportDtoSend> _service;
+        private readonly IService<TransportDtoReceive, TransportDtoSend, TransportDtoSendEmission> _service;
 
-        public TransportController(IService<TransportDtoReceive, TransportDtoSend> service)
+        public TransportController(IService<TransportDtoReceive, TransportDtoSend, TransportDtoSendEmission> service)
         {
             _service = service;
         }
@@ -58,7 +58,10 @@ namespace MicroServiceTransport.Api.Controller
             return Ok(transport); 
         }
 
-
-
+        [HttpGet("emissions")]
+        public List<TransportDtoSendEmission> GetAllEmission()
+        {
+            return _service.GetAllEmission();
+        }
     }
 }

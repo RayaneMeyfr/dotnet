@@ -5,7 +5,7 @@ using MicroServiceTransport.Domain.Ports;
 
 namespace MicroServiceTransport.Application.Service
 {
-    public class TransportService : IService<TransportDtoReceive, TransportDtoSend>
+    public class TransportService : IService<TransportDtoReceive, TransportDtoSend, TransportDtoSendEmission>
     {
         private readonly IRepository<Transport> repository;
 
@@ -34,6 +34,18 @@ namespace MicroServiceTransport.Application.Service
             }
 
             return transportDtoSends;
+        }
+
+        public List<TransportDtoSendEmission> GetAllEmission()
+        {
+            List<Transport> transports = repository.GetAll();
+            List<TransportDtoSendEmission> transportDtoSendsEmmission = new List<TransportDtoSendEmission>();
+            foreach (var transport in transports)
+            {
+                transportDtoSendsEmmission.Add(EntityToDtoEmission(transport));
+            }
+
+            return transportDtoSendsEmmission;
         }
 
         public TransportDtoSend GetById(int id)

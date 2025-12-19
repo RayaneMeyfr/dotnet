@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroServiceTransport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2112ade53c4360e92e1bd5e77b82e127415b4346")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692fc17ca2fe56de58e4de53d884c46f44f2fb5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroServiceTransport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroServiceTransport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

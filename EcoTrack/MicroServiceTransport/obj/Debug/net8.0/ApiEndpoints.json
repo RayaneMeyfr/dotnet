@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "MicroServiceTransport.Api.Controller.TransportController",
+    "Method": "GetAll",
+    "RelativePath": "api/Transport",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MicroServiceTransport.Application.Dto.TransportDtoSend, MicroServiceTransport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceTransport.Api.Controller.TransportController",
+    "Method": "Create",
+    "RelativePath": "api/Transport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transport",
+        "Type": "MicroServiceTransport.Application.Dto.TransportDtoReceive",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceTransport.Application.Dto.TransportDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceTransport.Api.Controller.TransportController",
+    "Method": "GetById",
+    "RelativePath": "api/Transport/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceTransport.Application.Dto.TransportDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceTransport.Api.Controller.TransportController",
+    "Method": "Update",
+    "RelativePath": "api/Transport/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "transport",
+        "Type": "MicroServiceTransport.Application.Dto.TransportDtoReceive",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceTransport.Application.Dto.TransportDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroServiceTransport.Api.Controller.TransportController",
+    "Method": "GetTransportWithEmission",
+    "RelativePath": "api/Transport/{id}/emission",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MicroServiceTransport.Application.Dto.TransportDtoSend",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

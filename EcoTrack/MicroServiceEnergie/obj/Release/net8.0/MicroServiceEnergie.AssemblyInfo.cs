@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroServiceEnergie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74443dfc3c44109d8155e361311a7ee674f1fb78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692fc17ca2fe56de58e4de53d884c46f44f2fb5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroServiceEnergie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroServiceEnergie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
